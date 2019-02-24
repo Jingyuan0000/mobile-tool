@@ -1,6 +1,6 @@
 ---
 title: 1篇第二部分
-sidebar: auto
+# sidebar: auto
 ---
 
 ##哔哔

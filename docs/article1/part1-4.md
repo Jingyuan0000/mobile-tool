@@ -1,6 +1,6 @@
 ---
 title: 1篇第四部分
-sidebar: auto
+# sidebar: auto
 ---
 
 ##四四

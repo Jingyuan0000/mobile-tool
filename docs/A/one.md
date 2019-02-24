@@ -1,6 +1,9 @@
 ---
 title: one
-sidebar: auto
+prev: ./two
+next: false
+sidebarDepth: 0
+# sidebar: auto
 ---
 
 # one
